@@ -3,6 +3,6 @@ function myFunction() {
 	if (x.className === "") {
 	  x.className += " responsive";
 	} else {
-	  x.className = "";
+	  x.className = "menu_bar";
 	}
   }
